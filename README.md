@@ -1,6 +1,6 @@
-# Webpack Starter
+# Todo APP
 
-proyecto inicial para crear aplicaciones usando webpack
+Proyecto todoapp usando JS
 
 ### Notas:
 Es necesario realizar el comando Para los modulos de Node:
